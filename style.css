@@ -1,0 +1,20 @@
+body{
+    background:  rgb(255, 162, 23);
+    font-family: "Helvetica";
+}
+
+#vid {
+    padding：20px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-style: italic;
+}
+
+ul {
+    list-style: none;
+}
